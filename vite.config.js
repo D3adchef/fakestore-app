@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/store/', // <-- update this to your actual repo name
+  base: '/fakestore-app/', // ✅ updated to correct repo name
 })

@@ -2,7 +2,7 @@
   "name": "fakestore-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://D3adchef.github.io/store",
+  "homepage": "https://D3adchef.github.io/fakestore-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
